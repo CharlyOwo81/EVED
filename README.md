@@ -40,6 +40,6 @@ La narrativa se desarrolla a través de tres niveles tonales distintos:
 
 * **Título:** ¿Estamos viviendo esos días?
 * **Desarrollador:** KYOKIM GAMES
-* **Propiedad de:** Gamaliel Armenta Pérez
+* **Propiedad de:** Gamaliel Armenta Pérez - 00000245254
 
 ---
